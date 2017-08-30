@@ -13,7 +13,7 @@ namespace ConverterTestWPF
     {
         public static void RedTextBox(TextBox t)
         {
-            //string 
+            //string .
             t.Background = Brushes.Red;
             t.Foreground = Brushes.White;
         }
