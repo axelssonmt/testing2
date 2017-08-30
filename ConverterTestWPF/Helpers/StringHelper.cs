@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConverterTestWPF
 {
     class StringHelper
-    { //
+    {
         public static string celsius = "Celsius";
         public static string fahrenheit = "Fahrenheit";
 
@@ -19,9 +19,5 @@ namespace ConverterTestWPF
         public static string niceDayForARun = "Nice day for a run";
         public static string toColdToRun = "To cold to run. Stay home.";
         public static string notAValidEntry = "Not a valid entry";
-
-
-
-
     }
 }
